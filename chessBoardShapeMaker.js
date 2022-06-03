@@ -8,7 +8,9 @@ function chessBoardShapeMaker(size, shape) {
 
   for (let i = 0; i <= size; i++) {
     //this for loop does the action of printing the rows on the board
-    console.log(`${empty}\n`);
+      if (empty.length !== 0) {
+        console.log(`${empty}\n`);
+    }
 
     //empty is reverted back to an empty string to clear out the shape history from prior iterations
     empty = '';
