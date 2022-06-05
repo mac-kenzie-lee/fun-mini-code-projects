@@ -12,3 +12,8 @@
 ----------------------------------------------------------
 #### Iterative Functions:
 [findTheTarget(integerArray, target)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/findTheTarget.js) Finds a pair of numbers that sum up to the target number using an array of numbers to search through.
+------------------------------------------------------------
+### Responses to Coding Prompts or Challenges:
+##### HackReactor Based: 
+[findTheTarget.js](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/findTheTarget.js) 
+[Credit Card Issuing Company Checker](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/creditCardIssuerChecker.js)
