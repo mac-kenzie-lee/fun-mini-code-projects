@@ -15,5 +15,6 @@
 ------------------------------------------------------------
 ### Responses to Coding Prompts or Challenges:
 ##### HackReactor Based: 
-[findTheTarget.js](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/findTheTarget.js) 
+[findTheTarget.js](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/findTheTarget.js) a
+
 [Credit Card Issuing Company Checker](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/creditCardIssuerChecker.js)
