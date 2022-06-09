@@ -6,6 +6,9 @@ function ifArrayMultipliedIsPositive(arrayOfNumbers) {
     //create a counter variable
     for (var i = 0; i < arrayOfNumbers.length; i++) {
         //loop through the array
+        if (arrayOfNumbers === 0) {
+            continue;
+        }
         if (arrayOfNumbers[i] < 0) {
             //check if a value is negative
             counter++;
