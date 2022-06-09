@@ -21,3 +21,4 @@
 ------------------------------------------------------
 ### Basic Math Functions
 [IsArrayNegative(numberArray)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/isArrayNegative.js)
+[absFinder(number)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/absFinder.js)
