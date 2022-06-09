@@ -20,5 +20,6 @@
 [Credit Card Issuing Company Checker](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/creditCardIssuerChecker.js)
 ------------------------------------------------------
 ### Basic Math Functions
-[IsArrayNegative(numberArray)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/isArrayNegative.js)
-[absFinder(number)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/absFinder.js)
+[IsArrayNegative(numberArray)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/isArrayNegative.js) : Checks to see if an array multiplied (or divided) all together would return a positive or a negative.
+
+[absFinder(number)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/absFinder.js) : Finds the absolute value of a number.
