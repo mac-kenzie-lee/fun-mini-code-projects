@@ -18,3 +18,6 @@
 [findTheTarget.js](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/findTheTarget.js) 
 
 [Credit Card Issuing Company Checker](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/creditCardIssuerChecker.js)
+------------------------------------------------------
+### Basic Math Functions
+[IsArrayNegative(numberArray)](https://github.com/mac-kenzie-lee/fun-mini-code-projects/blob/main/isArrayNegative.js)
